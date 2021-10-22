@@ -35,39 +35,19 @@
         font-family:'Saira Extra Condensed',serif;
         font-size:1.35rem;
     }
-
-    .list-inline-item{
-        width: 50px;
-        height: 50px;
-        background-color: red;
-    }
     
     .list-social-icons a{
-        color:#495057;
-
+        color:#495057
     }
     
     .list-social-icons a:hover{
-        color:#bd5d38;
+        color:#bd5d38
     }
-    
     .list-social-icons a .fa-lg{
-        width: 50px;
-        height: 50px;
-        font-size: large;
-    }
-
-    .fab{
-        width: 40px;
-        height: 40px;
-        
-    }
-    
-    .list-icons{
-        font-size:4rem;
-    }
-    
-    .list-icons .list-inline-item i:hover{
+        font-size:1.75rem;
+    }.list-icons{
+        font-size:3rem;
+    }.list-icons .list-inline-item i:hover{
         color:#bd5d38;
     }
     
